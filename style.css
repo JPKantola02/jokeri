@@ -1,0 +1,27 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  #jokeriContainer {
+    margin-bottom: 20px;
+  }
+  
+  .jokeriRow {
+    display: flex;
+    align-items: center;
+  }
+  
+  .jokeriBubble {
+    width: 30px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+  }
+  
